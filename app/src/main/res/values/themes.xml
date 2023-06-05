@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WHIS" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_main</item>
+    </style>
+    <style name="SplashScreenTheme" parent="Theme.WHIS">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+    </style>
+</resources>
